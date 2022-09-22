@@ -5,7 +5,7 @@ To see my profile in detail, I recommend to look at my LinkedIn profile.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-kariuki-5189261a7)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40cloudposse)](https://twitter.com/Ibrah_Jarvis?t=zK-uIhJ_LFL4-DiMVgT6CA&s=09)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://app.slack.com/client/T01GWH0CJ8Y/C01GKASEX09)
+[![Slack](https://img.shields.io/badge/-Slack-FE7A16?style=for-the-badge&logo=slack&logoColor=white)](https://app.slack.com/client/T01GWH0CJ8Y/C01GKASEX09)
 
 ## Skills
 
