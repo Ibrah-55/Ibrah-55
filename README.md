@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ibrahim Theuri (Jarvis), a **Junior Software Developer** based in Kenya open to any role. Having around 3 years of experience in full-stack web development currently specialised in python Django.
+I'm Ibrahim Theuri (Jarvis), a **Junior Software Developer** based in Kenya open to any role.
 To see my profile in detail, I recommend to look at my LinkedIn profile.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-kariuki-5189261a7)
