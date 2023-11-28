@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ibrahim Theuri (Jarvis), a **Software Engineer**
+I'm Ibrahim Theuri (Jarvis), **Software Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-kariuki-5189261a7)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40cloudposse)](https://twitter.com/Ibrah_Jarvis?t=zK-uIhJ_LFL4-DiMVgT6CA&s=09)
